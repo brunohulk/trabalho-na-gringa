@@ -21,7 +21,6 @@ Esta é uma lista com diversos episódios de podcasts, canais do youtube e artig
 
 # Podcasts
 
----
 ## 2 Devs
 * [Devs na gringa - Portugal](https://2devs.simplecast.fm/devs-na-gringa)
 * [Devs na gringa II - Hamburgo](https://2devs.simplecast.fm/devs-na-gringa-2)
