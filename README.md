@@ -2,11 +2,13 @@
 Esta é uma lista com diversos episódios de podcasts, canais do youtube e artigos de tecnologia, cujo o foco é trabalho no exterior principalmente para profissionais de tecnologia.
 
 # Artigos
+
 * [Brazil tech expats, the research](https://medium.com/@joaomilho/brazilian-tech-expats-the-research-ae9658e7636d)
 * [Conseguindo uma oferta de emprego como programador na Europa em dois meses](https://medium.com/@luucasAlbuq/conseguindo-uma-oferta-de-emprego-como-programador-na-europa-em-dois-meses-da911177b56f0)
 * [Como ser designer fora do Brasil?](https://medium.com/neworder/como-ser-designer-fora-do-brasil-979d1244c413)
 * [O programador Brasileiro e as oportunidades no exterior](https://medium.com/@felipernb/o-programador-brasileiro-e-as-oportunidades-no-exterior-a78266b2660)
 * [Uma passagem só de ida para Hamburgo](https://medium.com/@borgesbruno/uma-passagem-só-de-ida-pra-hamburgo-e47ed9556895)
+
 
 # Canais do Youtube
 
@@ -16,11 +18,13 @@ Esta é uma lista com diversos episódios de podcasts, canais do youtube e artig
 ## Programador BR
 * [#55 Quanto ganha um programador no Canadá?](https://www.youtube.com/watch?v=p5Z2LrivSyI)
 
+
 # Podcasts
+
 ---
 ## 2 Devs
-## [Devs na gringa - Portugal](https://2devs.simplecast.fm/devs-na-gringa)
-## [Devs na gringa II - Hamburgo](https://2devs.simplecast.fm/devs-na-gringa-2)
+* [Devs na gringa - Portugal](https://2devs.simplecast.fm/devs-na-gringa)
+* [Devs na gringa II - Hamburgo](https://2devs.simplecast.fm/devs-na-gringa-2)
 
 ## Dev na estrada
 * [DNE 165 - Perrengues na Gringa #1 - EUA](https://devnaestrada.com.br/2018/07/13/perrengues-na-gringa-eua.html)
@@ -42,6 +46,6 @@ Esta é uma lista com diversos episódios de podcasts, canais do youtube e artig
 ## Nerdtech
 * [02 Programando no exterior](https://jovemnerd.com.br/nerdcast/nerdtech/nerdtech-02-programando-no-exterior/)
 
-#### Repositórios no Github
+# Repositórios no Github
 * [Awesome Berlin](https://github.com/marlonbernardes/awesome-berlin)
 * [Descomplicando o trabalhar para fora](https://github.com/tapajos/trabalhando_fora)
