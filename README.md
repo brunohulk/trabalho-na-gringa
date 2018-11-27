@@ -1,6 +1,5 @@
-# Podcasts sobre trabalho no exterior
-Esta é uma lista com diversos episódios de podcasts, canais do youtube e artigos de tecnologia, cujo o foco é trabalho no exterior, principalmente para profissionais de tecnologia,
-a lista é dividida por podcast.
+# Curadoria sobre trabalho no exterior para desenvolvedor
+Esta é uma lista com diversos episódios de podcasts, canais do youtube e artigos de tecnologia, cujo o foco é trabalho no exterior principalmente para profissionais de tecnologia.
 
 #### Artigos
 * [Brazil tech expats, the research](https://medium.com/@joaomilho/brazilian-tech-expats-the-research-ae9658e7636d)
