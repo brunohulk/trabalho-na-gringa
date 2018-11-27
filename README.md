@@ -1,4 +1,4 @@
-# Curadoria sobre trabalho no exterior para desenvolvedor
+# Curadoria sobre trabalho no exterior para profissionais de tecnologia
 Esta é uma lista com diversos episódios de podcasts, canais do youtube e artigos de tecnologia, cujo o foco é trabalho no exterior principalmente para profissionais de tecnologia.
 
 # Artigos
