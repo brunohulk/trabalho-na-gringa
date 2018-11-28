@@ -4,7 +4,7 @@ Esta é uma lista com diversos episódios de podcasts, canais do youtube e artig
 ## Artigos
 
 * [Brazil tech expats, the research](https://medium.com/@joaomilho/brazilian-tech-expats-the-research-ae9658e7636d)
-* [Conseguindo uma oferta de emprego como programador na Europa em dois meses](https://medium.com/@luucasAlbuq/conseguindo-uma-oferta-de-emprego-como-programador-na-europa-em-dois-meses-da911177b56f0)
+* [Conseguindo uma oferta de emprego como programador na Europa em dois meses](https://medium.com/@luucasAlbuq/conseguindo-uma-oferta-de-emprego-como-programador-na-europa-em-dois-meses-da911177b56f)
 * [Como ser designer fora do Brasil?](https://medium.com/neworder/como-ser-designer-fora-do-brasil-979d1244c413)
 * [O programador Brasileiro e as oportunidades no exterior](https://medium.com/@felipernb/o-programador-brasileiro-e-as-oportunidades-no-exterior-a78266b2660)
 * [Uma passagem só de ida para Hamburgo](https://medium.com/@borgesbruno/uma-passagem-só-de-ida-pra-hamburgo-e47ed9556895)
