@@ -45,6 +45,9 @@ Esta é uma lista com diversos episódios de podcasts, canais do youtube e artig
 ###### Nerdtech
 * [02 Programando no exterior](https://jovemnerd.com.br/nerdcast/nerdtech/nerdtech-02-programando-no-exterior/)
 
+###### Podtag
+* [18 Imigração vagas no exterior e networking](https://podtag.com.br/tag-18-imigracao-vagas-no-exterior-e-networking)
+
 ## Repositórios no Github
 * [Awesome Berlin](https://github.com/marlonbernardes/awesome-berlin)
 * [Descomplicando o trabalhar para fora](https://github.com/tapajos/trabalhando_fora)
