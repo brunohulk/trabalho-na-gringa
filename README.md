@@ -39,8 +39,11 @@ Esta é uma lista com diversos episódios de podcasts, canais do youtube e artig
 * [#69 Carreira de programação no exterior](https://hipsters.tech/carreira-de-programacao-no-exterior-hipsters-69/)
 * [#124 Trabalhando na Irlanda](https://hipsters.tech/trabalhando-na-irlanda-hipsters-124/)
 
+##### Podprogramar
+* [#46 Trabalho no exterior](https://mundopodcast.com.br/podprogramar/46-trabalhando-exterior/)
+
 ###### Lendocast
-* [11 Uma passagem só de ida pra Hamburgo](https://podtail.com/en/podcast/lendocast/lendocast-11-uma-passagem-so-de-ida-pra-hamburgo/)
+* [#11 Uma passagem só de ida pra Hamburgo](https://podtail.com/en/podcast/lendocast/lendocast-11-uma-passagem-so-de-ida-pra-hamburgo/)
 
 ###### Nerdtech
 * [02 Programando no exterior](https://jovemnerd.com.br/nerdcast/nerdtech/nerdtech-02-programando-no-exterior/)
