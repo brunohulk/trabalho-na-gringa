@@ -30,10 +30,11 @@ Esta é uma lista com diversos episódios de podcasts, canais do youtube e artig
 
 ###### Grok
 * [#114 Brasileiros em Amsterdam](https://www.mixcloud.com/grokpodcast/episodio-114-brasileiros-em-amsterdam/)
-* [#134 Brasileiros em Tel Aviv - part 1](https://www.mixcloud.com/grokpodcast/134-brasileiros-em-tel-aviv/)
-* [#135 Brasileiros em Tel Aviv - part 2](https://www.mixcloud.com/grokpodcast/135-brasileiros-em-tel-aviv/)
+iv/)
 * [#123 Brasileiros em Berlin - part 2](https://www.mixcloud.com/grokpodcast/123-brasileiros-em-berlim/)
 * [#124 Brasileiros em Berlin - part 2](https://www.mixcloud.com/grokpodcast/124-brasileiros-em-berlim/)
+* [#134 Brasileiros em Tel Aviv - part 1](https://www.mixcloud.com/grokpodcast/134-brasileiros-em-tel-aviv/)
+* [#135 Brasileiros em Tel Aviv - part 2](https://www.mixcloud.com/grokpodcast/135-brasileiros-em-tel-av
  
 ###### Hipsters.tech
 * [#69 Carreira de programação no exterior](https://hipsters.tech/carreira-de-programacao-no-exterior-hipsters-69/)
@@ -46,7 +47,7 @@ Esta é uma lista com diversos episódios de podcasts, canais do youtube e artig
 * [#11 Uma passagem só de ida pra Hamburgo](https://podtail.com/en/podcast/lendocast/lendocast-11-uma-passagem-so-de-ida-pra-hamburgo/)
 
 ###### Linuxtips
-[#1 Trabalhar com TI no exterior](https://www.linuxtips.com.br/trabalhar-com-ti-no-exterior)
+* [#1 Trabalhar com TI no exterior](https://www.linuxtips.com.br/trabalhar-com-ti-no-exterior)
 
 ###### Nerdtech
 * [02 Programando no exterior](https://jovemnerd.com.br/nerdcast/nerdtech/nerdtech-02-programando-no-exterior/)
