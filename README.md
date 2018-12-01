@@ -30,11 +30,10 @@ Esta é uma lista com diversos episódios de podcasts, canais do youtube e artig
 
 ###### Grok
 * [#114 Brasileiros em Amsterdam](https://www.mixcloud.com/grokpodcast/episodio-114-brasileiros-em-amsterdam/)
-iv/)
 * [#123 Brasileiros em Berlin - part 2](https://www.mixcloud.com/grokpodcast/123-brasileiros-em-berlim/)
 * [#124 Brasileiros em Berlin - part 2](https://www.mixcloud.com/grokpodcast/124-brasileiros-em-berlim/)
 * [#134 Brasileiros em Tel Aviv - part 1](https://www.mixcloud.com/grokpodcast/134-brasileiros-em-tel-aviv/)
-* [#135 Brasileiros em Tel Aviv - part 2](https://www.mixcloud.com/grokpodcast/135-brasileiros-em-tel-av
+* [#135 Brasileiros em Tel Aviv - part 2](https://www.mixcloud.com/grokpodcast/135-brasileiros-em-tel-aviv/)
  
 ###### Hipsters.tech
 * [#69 Carreira de programação no exterior](https://hipsters.tech/carreira-de-programacao-no-exterior-hipsters-69/)
