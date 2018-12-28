@@ -27,6 +27,8 @@ Esta é uma lista com diversos episódios de podcasts, canais do youtube e artig
 
 ###### Dev na estrada
 * [DNE 165 - Perrengues na Gringa #1 - EUA](https://devnaestrada.com.br/2018/07/13/perrengues-na-gringa-eua.html)
+* [DNE 185 - Perrengues na Gringa #1 - Irlanda](https://devnaestrada.com.br/2018/12/14/perengues-gringa-irlanda.html)
+
 
 ###### Grok
 * [#114 Brasileiros em Amsterdam](https://www.mixcloud.com/grokpodcast/episodio-114-brasileiros-em-amsterdam/)
