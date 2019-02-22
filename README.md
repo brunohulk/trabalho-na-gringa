@@ -25,6 +25,9 @@ Esta é uma lista com diversos episódios de podcasts, canais do youtube e artig
 * [Devs na gringa - Portugal](https://2devs.simplecast.fm/devs-na-gringa)
 * [Devs na gringa II - Hamburgo](https://2devs.simplecast.fm/devs-na-gringa-2)
 
+###### Carreira sem fronteiras
+* [Vários episódios](https://www.carreirasemfronteiras.com.br)
+
 ###### Dev na estrada
 * [DNE 165 - Perrengues na Gringa #1 - EUA](https://devnaestrada.com.br/2018/07/13/perrengues-na-gringa-eua.html)
 * [DNE 185 - Perrengues na Gringa #1 - Irlanda](https://devnaestrada.com.br/2018/12/14/perengues-gringa-irlanda.html)
@@ -37,6 +40,9 @@ Esta é uma lista com diversos episódios de podcasts, canais do youtube e artig
 * [#134 Brasileiros em Tel Aviv - part 1](https://www.mixcloud.com/grokpodcast/134-brasileiros-em-tel-aviv/)
 * [#135 Brasileiros em Tel Aviv - part 2](https://www.mixcloud.com/grokpodcast/135-brasileiros-em-tel-aviv/)
  
+###### Podtag
+* [#08 Tageando pelo mundo, Austrália](htps://www.podtag.com.br/tageando-pelo-mundo-08-australia)
+
 ###### Hipsters.tech
 * [#69 Carreira de programação no exterior](https://hipsters.tech/carreira-de-programacao-no-exterior-hipsters-69/)
 * [#124 Trabalhando na Irlanda](https://hipsters.tech/trabalhando-na-irlanda-hipsters-124/)
