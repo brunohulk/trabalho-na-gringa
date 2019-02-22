@@ -41,7 +41,7 @@ Esta é uma lista com diversos episódios de podcasts, canais do youtube e artig
 * [#135 Brasileiros em Tel Aviv - part 2](https://www.mixcloud.com/grokpodcast/135-brasileiros-em-tel-aviv/)
  
 ###### Podtag
-* [#08 Tageando pelo mundo, Austrália)(https://www.podtag.com.br/tageando-pelo-mundo-08-australia)
+* [#08 Tageando pelo mundo, Austrália](https://www.podtag.com.br/tageando-pelo-mundo-08-australia)
 
 ###### Hipsters.tech
 * [#69 Carreira de programação no exterior](https://hipsters.tech/carreira-de-programacao-no-exterior-hipsters-69/)
