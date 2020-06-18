@@ -62,6 +62,9 @@ Esta é uma lista com diversos episódios de podcasts, canais do youtube e artig
 ###### Podtag
 * [18 Imigração vagas no exterior e networking](https://podtag.com.br/tag-18-imigracao-vagas-no-exterior-e-networking)
 
+###### Depois do Café
+* [Episodio 7 - Trabalhando em Ambientes Internacionais](https://dev.to/depoisdocafe/depois-do-cafe-episodio-7-trabalhando-em-ambientes-internacionais-3p3b)
+
 ## Repositórios no Github
 * [Awesome Berlin](https://github.com/marlonbernardes/awesome-berlin)
 * [Descomplicando o trabalhar para fora](https://github.com/tapajos/trabalhando_fora)
